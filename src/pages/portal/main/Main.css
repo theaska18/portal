@@ -1,0 +1,22 @@
+.carousel {
+  height: 400px; /* Sesuaikan tinggi carousel sesuai kebutuhan */
+}
+
+.carousel .carousel-item img {
+  width: 100%; /* Pastikan gambar mengisi lebar carousel */
+  height: auto; /* Menjaga aspek rasio gambar */
+}
+
+.hero {
+  padding: 3rem 0;
+}
+
+.carousel .carousel-item blockquote {
+  margin: 0;
+  font-style: italic;
+}
+
+.carousel .carousel-item footer {
+  text-align: right;
+  font-weight: bold;
+}
